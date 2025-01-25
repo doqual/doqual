@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doqual
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate on security projects
+- 💞️ I’m looking to collaborate on generative AI projects
 - 📫 How to reach me email:kuoldominic@gmail.com or instagram:@doqual
 
 <!---
